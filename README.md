@@ -1,4 +1,4 @@
-# Platformer02
+# Citrus Serenade: The 2D Yellow Square Platformer
 
 My take on a 2D Unity platformer!
 
